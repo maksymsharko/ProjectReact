@@ -39,11 +39,7 @@ and
 ### `docker-compose up`
 
 
-#Screenshots
-![Знімок екрану з 2021-09-16 20-23-25](https://user-images.githubusercontent.com/79326174/133660147-548de6c0-d685-471a-8978-2293f673cdd8.png)
-
-![Знімок екрану з 2021-09-16 20-23-27](https://user-images.githubusercontent.com/79326174/133660132-a6da66fb-3883-4f24-9e2a-59a0bba5103d.png)
-
-![Знімок екрану з 2021-09-16 20-25-00](https://user-images.githubusercontent.com/79326174/133660111-e3cbaf00-d727-4232-8759-8b7d3ff83c69.png)
-
-
+# Screenshots
+![фото1](https://user-images.githubusercontent.com/79326174/133660902-7ead9714-924a-49f1-b136-acfb68c900cb.png)
+![фото2](https://user-images.githubusercontent.com/79326174/133660921-1b1c001d-24e2-44f3-93a1-c05c7ffec6f6.png)
+![фото3](https://user-images.githubusercontent.com/79326174/133660941-5e6142c0-e3aa-4851-950f-f778d9e2ea87.png)
