@@ -1,7 +1,7 @@
 # ReactDjango Project
 
 
-#For Front-end:
+# For Front-end:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -31,8 +31,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 For running:
 ### `docker-compose up`
 
-# If you make changes to Front-End files, you must use the command in the Front End directory: ### `npm run build`
-# Then you need to go to the home directory and enter these commands: ### `docker-compose run web python3 manage.py collectstatic` and ### `docker-compose up`
+#If you make changes to Front-End files, you must use the command in the Front End directory: ### `npm run build`
+#Then you need to go to the home directory and enter these commands: ### `docker-compose run web python3 manage.py collectstatic` and ### `docker-compose up`
 
 
 #Screenshots
